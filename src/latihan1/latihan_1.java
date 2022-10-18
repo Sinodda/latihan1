@@ -5,10 +5,6 @@
  */
 package latihan1;
 
-/**
- *
- * @author HP
- */
 public class latihan_1 {
     
 }
